@@ -1,0 +1,7 @@
+MIDlet-Version: 0.1.0
+MIDlet-Vendor: www.ioexception.de
+MIDlet-Jar-URL: EchtzeitFahrplanUlm.jar
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
+MIDlet-1: Echtzeit-Fahrplan Ulm/Neu-Ulm,/icon.png,de.ioexception.me.ding.Main
+MIDlet-Name: Echtzeit-Fahrplan Ulm/Neu-Ulm
